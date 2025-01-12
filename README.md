@@ -40,7 +40,7 @@ InvisiKey is an advanced GUI-based application that integrates Access Control Li
 ### **Setup**  
 
 1. Clone the repository:  
-   git clone https://github.com/yourusername/InvisiKey.git
+   git clone https://github.com/ARDcreates/InvisiKey.git
    cd InvisiKey
   
 
