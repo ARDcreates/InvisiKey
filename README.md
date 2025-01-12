@@ -35,7 +35,12 @@ InvisiKey is an advanced GUI-based application that integrates Access Control Li
 - **Cryptography (RSA encryption)**  
 - **Stegano (Image Steganography)**  
 
+---
 
+### ***Important Notes**
+Display Server Required: This application is built with a GUI using PyQt5, which requires a display server to run. It will not work on GitHub or in typical online editors that do not support GUI applications. Please run it on a local machine or server with a proper display environment (e.g., X11, Wayland for Linux, or any system that supports GUI applications).
+
+---
 
 ### **Setup**  
 
@@ -50,6 +55,8 @@ InvisiKey is an advanced GUI-based application that integrates Access Control Li
 
 3. Run the application:  
    python InvisiKey.py
+
+---
 
 ### **License**  
 **Apache License 2.0**
